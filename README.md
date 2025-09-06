@@ -14,28 +14,6 @@ This project implements the backend system for **TooHak**, providing core servic
 
 ---
 
-## Project Structure
-
-├── APIError.ts # Error handling
-├── auth.ts # Authentication logic
-├── config.json # Configurations
-├── dataStore.ts # Data persistence
-├── echo.js # Example endpoint
-├── echo.test.js # Test for echo
-├── helperFunctions.ts # Utility functions
-├── newecho.ts # Updated echo implementation
-├── newecho.test.ts # Test for updated echo
-├── other.ts # Miscellaneous utilities
-├── player.ts # Player logic
-├── quiz.ts # Quiz logic
-├── results_*.csv # Example result data
-├── returnInterface.ts # Return type definitions
-├── server.ts # Server entry point
-├── token.ts # Token/session management
-└── wrapper.ts # Wrappers for modules
-
----
-
 ## Roadmap
 - Add role-based access control
 - Integrate with external APIs
